@@ -9,6 +9,8 @@ around it with self-rotation, closely simulating real orbital mechanics.
 
 ## Demo
 
+![Solar System Demo](image.png)
+
 | Feature | Details |
 |---------|---------|
 | Rendering API | OpenGL 3.3 Core Profile |
