@@ -1,0 +1,19 @@
+# Build output
+build/
+Release/
+Debug/
+*.exe
+*.obj
+*.pdb
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# VS files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
